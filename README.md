@@ -28,7 +28,7 @@ Student Entry database uses a number of open source projects to work properly:
 
 ## Installation
 ```sh
-Clone the repository 
+Clone the repository https://github.com/hackster254/Student-Entry-Database.git
 ```
 ```sh
 run the .sql query and create database
