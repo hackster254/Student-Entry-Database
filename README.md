@@ -41,9 +41,9 @@ run the application in Visual Studio
 
 Feel free to try it out!
 
-## Photo
+## Photos
 ![Screenshot](form.PNG)
-
+![Report](report.PNG)
 
 ## License
 
